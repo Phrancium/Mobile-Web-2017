@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802155481919",
+    "firebase_url": "https://mysteryapplication-88719.firebaseio.com",
+    "project_id": "mysteryapplication-88719",
+    "storage_bucket": "mysteryapplication-88719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802155481919:android:fef3ff30a46b0455",
+        "android_client_info": {
+          "package_name": "com.phrancium.mysteryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802155481919-u003vgar4392sf2cvp2hs3s2bqkphsd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phrancium.mysteryapplication",
+            "certificate_hash": "cf294fa817a9534a91393a84ecd553ec41da8e91"
+          }
+        },
+        {
+          "client_id": "802155481919-trd97htakff4j8ddsnbsf1i4oknapdll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8JROvHB3TMeI365lEsE4qHb6bMrc40Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802155481919-trd97htakff4j8ddsnbsf1i4oknapdll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
